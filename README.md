@@ -16,4 +16,5 @@ To experience "User Experience" yourself, download the zipped .playgroundbook fi
 ## Author
 
 [Cristian Garske](https://cristiangars.com)
+
 To find out more about me, visit my [LinkedIn](https://www.linkedin.com/in/cristiangarske/) or [Instagram](https://www.instagram.com/oddghostly/)
