@@ -2,7 +2,7 @@
 
 ### A Swift Playground by Cristian Garske realized during May 2020.
 
-![User Experience Cover](PlaygroundIcon.png)
+![User Experience Cover](Cover.png)
 
 
 ## Introduction
