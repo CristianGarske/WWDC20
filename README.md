@@ -1,4 +1,5 @@
-# User Experience - WWDCC20 (Accepted)
+# User Experience
+WWDC 2020 Swift Student Challenge Submission (Accepted)
 
 ### A Swift Playground by Cristian Garske realized during May 2020.
 
@@ -25,4 +26,4 @@ To experience "User Experience" yourself, download the zipped .playgroundbook fi
 
 Hello, My name is Cristian Garske, I'm 29 years old, I'm a Design student at Universidade Federal do Rio Grande do Sul (UFRGS). I am a UX Design student at the Apple Developer Academy - Porto Alegre, Brazil. I started developing for iOS two years ago. Last year, I published my first app with a group of Apple Academy colleagues, at the App Store. The app is called Bubble Yonder and is aimed at facilitating the routines of children in the spectrum of autism. I did all the design part, and this playground is the first coding stuff i did, after watching a lot of Swift Classes last year and even online courses.
 
-To find out more about me, visit my [LinkedIn](https://www.linkedin.com/in/cristiangarske/), [Instagram](https://www.instagram.com/oddghostly/) or my [site](https://cristiangars.com).
+To find out more about me, visit my [LinkedIn](https://www.linkedin.com/in/cristiangarske/) or my [site]!(https://cristiangars.com).
